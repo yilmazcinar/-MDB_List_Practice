@@ -1,0 +1,14 @@
+C:\Users\caplo\source\repos\IMDB_List\IMDB_List\bin\Debug\net8.0\IMDB_List.exe
+C:\Users\caplo\source\repos\IMDB_List\IMDB_List\bin\Debug\net8.0\IMDB_List.deps.json
+C:\Users\caplo\source\repos\IMDB_List\IMDB_List\bin\Debug\net8.0\IMDB_List.runtimeconfig.json
+C:\Users\caplo\source\repos\IMDB_List\IMDB_List\bin\Debug\net8.0\IMDB_List.dll
+C:\Users\caplo\source\repos\IMDB_List\IMDB_List\bin\Debug\net8.0\IMDB_List.pdb
+C:\Users\caplo\source\repos\IMDB_List\IMDB_List\obj\Debug\net8.0\IMDB_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caplo\source\repos\IMDB_List\IMDB_List\obj\Debug\net8.0\IMDB_List.AssemblyInfoInputs.cache
+C:\Users\caplo\source\repos\IMDB_List\IMDB_List\obj\Debug\net8.0\IMDB_List.AssemblyInfo.cs
+C:\Users\caplo\source\repos\IMDB_List\IMDB_List\obj\Debug\net8.0\IMDB_List.csproj.CoreCompileInputs.cache
+C:\Users\caplo\source\repos\IMDB_List\IMDB_List\obj\Debug\net8.0\IMDB_List.dll
+C:\Users\caplo\source\repos\IMDB_List\IMDB_List\obj\Debug\net8.0\refint\IMDB_List.dll
+C:\Users\caplo\source\repos\IMDB_List\IMDB_List\obj\Debug\net8.0\IMDB_List.pdb
+C:\Users\caplo\source\repos\IMDB_List\IMDB_List\obj\Debug\net8.0\IMDB_List.genruntimeconfig.cache
+C:\Users\caplo\source\repos\IMDB_List\IMDB_List\obj\Debug\net8.0\ref\IMDB_List.dll
